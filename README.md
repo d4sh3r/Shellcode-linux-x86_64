@@ -1,1 +1,1 @@
-shellcode to get a shell on x86_64 in 22 bytes 
+shellcodes on linux x86_64 
